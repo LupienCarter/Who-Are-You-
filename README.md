@@ -1,5 +1,5 @@
 # Who Are You?
-> A short one-line tagline for your quiz or questionnaire
+>This is a short personality quiz that places users in a category based on their responses to fun questions. 
 
 ## Overview
 > **DELETE AND REPLACE ME:** Describe your program's focus, the type of
