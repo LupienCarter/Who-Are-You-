@@ -6,6 +6,8 @@
 > program it is (quiz, personality test, or recommendation tool), and the
 > final output a user will receive. Make it clear how user input and
 > conditional logic work together to produce that result.
+
+This program's focus is to have the user take a personality test through 
 >
 > Example: "This program quizzes users on Impressionist art. Based on
 > their answers, users earn points, and their final score determines
@@ -58,10 +60,6 @@
 >   - `if` score is 3: display high-knowledge message
 >   - `elif` score is 1 or 2: display some-knowledge message
 >   - `else`: display message encouraging the user to learn more
-
-## How to Run
-1. Clone this repo
-2. Run `python3 main.py` or `python main.py`
 
 ## Demo Video
 [DELETE AND REPLACE ME: link to your 5-minute explanation video]
