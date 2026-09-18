@@ -1,5 +1,5 @@
 # Who Are You?
->This is a short personality quiz that places users in a category based on their responses to fun questions. 
+>Have you ever wondered which house you would be sorted into at Hogwarts or which demigod you would be in Percy Jackson this short personality quiz could answer those questions for you.
 
 ## Overview
 > **DELETE AND REPLACE ME:** Describe your program's focus, the type of
