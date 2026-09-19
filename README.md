@@ -89,7 +89,7 @@
 
 ## Variables
 
-<quiz_choice (str): stores whether the user chooses the Hogwarts House Quiz or the Percy Jackson 
+quiz_choice (str): stores whether the user chooses the Hogwarts House Quiz or the Percy Jackson 
 
 Demigod Quiz. A string is used because the user's input is received as text.|
 
@@ -102,7 +102,7 @@ Separate variables are needed because each house needs its own score.
 poseidon, athena, ares, apollo, hermes} (int): store the points for each Percy Jackson demigod parent. 
 Separate variables are needed so the program can compare the scores.
 
-<house (str): stores the final Hogwarts House result.
+house (str): stores the final Hogwarts House result.
 
 parent (str): stores the final Percy Jackson demigod parent result.
 
