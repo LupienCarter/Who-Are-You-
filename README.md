@@ -91,22 +91,22 @@
 
 <quiz_choice (str): stores whether the user chooses the Hogwarts House Quiz or the Percy Jackson 
 
-<Demigod Quiz. A string is used because the user's input is received as text.|
+Demigod Quiz. A string is used because the user's input is received as text.|
 
-<answer (str): stores the user's answer to each question. 
-<The answer is compared with different options in the conditional statements.
+answer (str): stores the user's answer to each question. 
+The answer is compared with different options in the conditional statements.
 
-<gryffindor, ravenclaw, hufflepuff, slytherin (int): store the points for each Hogwarts House. 
-<Separate variables are needed because each house needs its own score.
+gryffindor, ravenclaw, hufflepuff, slytherin (int): store the points for each Hogwarts House. 
+Separate variables are needed because each house needs its own score.
 
-<poseidon, athena, ares, apollo, hermes} (int): store the points for each Percy Jackson demigod parent. 
-<Separate variables are needed so the program can compare the scores.
+poseidon, athena, ares, apollo, hermes} (int): store the points for each Percy Jackson demigod parent. 
+Separate variables are needed so the program can compare the scores.
 
 <house (str): stores the final Hogwarts House result.
 
-<parent (str): stores the final Percy Jackson demigod parent result.
+parent (str): stores the final Percy Jackson demigod parent result.
 
-<description (str): stores a description of the user's final personality result.
+description (str): stores a description of the user's final personality result.
 
 >## Conditional Logic Outline
 >Conditional statement 1 — Choosing the quiz
