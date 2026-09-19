@@ -87,7 +87,8 @@
 >A busy city
 
 
-## ariables
+##Variables
+
 <quiz_choice (str): stores whether the user chooses the Hogwarts House Quiz or the Percy Jackson 
 <Demigod Quiz. A string is used because the user's input is received as text.
 <answer (str): stores the user's answer to each question. 
